@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaitoWasTaken
 - 👀 I’m interested in knowing how to make games
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
