@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaitoWasTaken
+- 👋 Hi, I’m @Priestn't
 - 👀 I’m interested in knowing how to make games
 - 🌱 I’m currently learning JavaScript
 
